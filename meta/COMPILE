@@ -1,0 +1,4 @@
+
+./configure --prefix=/opt/oniguruma \
+--sysconfdir=/opt/oniguruma/conf
+
